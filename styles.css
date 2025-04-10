@@ -1,0 +1,50 @@
+* {
+    
+    background-image: url("https://images.pexels.com/photos/6266635/pexels-photo-6266635.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+  }
+  
+  .top h1 {
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+  }
+  #info {
+    color:antiquewhite;
+    font-style: oblique; 
+
+  }
+  .goals {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color: #FFEBCD;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid black;
+  }
+  
+  .goals h3 {
+    font-size: 24px;
+  }
+  
+  .goals ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  
+
+footer {
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  color: white;
+  text-align: center;
+  margin-top: 20px;
+  padding: 10px;
+  border-top: 1px solid black;
+}
+
